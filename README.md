@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi humans;
+
+This is shyam here who knows scripting,coding
